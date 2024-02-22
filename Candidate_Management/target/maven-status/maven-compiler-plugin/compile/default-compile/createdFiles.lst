@@ -1,9 +1,0 @@
-Main.class
-model\ExperienceModel.class
-model\FresherModel.class
-view\Menu.class
-view\Validation.class
-controller\CandidateController.class
-model\CandidateModel.class
-model\CandidateList.class
-model\InternshipModel.class
