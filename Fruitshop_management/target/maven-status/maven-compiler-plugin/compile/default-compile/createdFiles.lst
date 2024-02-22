@@ -1,7 +1,0 @@
-Common\Library.class
-Main.class
-dataaccess\FruitDAO.class
-Common\Validation.class
-model\Fruit.class
-view\Menu.class
-controller\FruitshopController.class
