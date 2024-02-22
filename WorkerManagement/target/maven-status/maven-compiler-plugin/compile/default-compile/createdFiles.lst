@@ -1,9 +1,0 @@
-Common\Library.class
-controller\WorkerController.class
-Main.class
-Common\Validation.class
-dataaccess\WorkerDAO.class
-view\Menu.class
-model\Worker.class
-model\salaryHistory.class
-Common\Instance.class
