@@ -1,0 +1,8 @@
+Common\Library.class
+controller\FileController.class
+Common\Validation.class
+view\Menu.class
+com\mycompany\javahandlefile\JavaHandleFile.class
+model\File.class
+model\Person.class
+Dataaccess\PersonDAO.class
